@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-interface PalindromeStrategy {
+interface PalindromeStrategy10 {
     boolean checkPalindrome(String word);
 }
 
